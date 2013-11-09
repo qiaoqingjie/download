@@ -1,6 +1,6 @@
 nov09 2
 http://search.maven.org/remotecontent?filepath=com/facebook/presto/presto-server/0.52/presto-server-0.52.tar.gz
 http://image.baidu.com/
-www.sina.com
-www.jd.com
-www.tmall.com
+http://www.sina.com
+http://www.jd.com
+http://www.tmall.com
