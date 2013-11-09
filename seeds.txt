@@ -1,0 +1,1 @@
+http://search.maven.org/remotecontent?filepath=com/facebook/presto/presto-server/0.52/presto-server-0.52.tar.gz
