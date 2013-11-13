@@ -1,3 +1,2 @@
-nov11
-http://www.tmall.com
-
+nov13
+http://archive.apache.org/dist/hadoop/common/hadoop-0.21.0/hadoop-0.21.0.tar.gz
