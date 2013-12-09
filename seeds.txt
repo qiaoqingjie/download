@@ -1,3 +1,1 @@
-nov13-2
-http://news.baidu.com
-http://archive.apache.org/dist/hadoop/common/hadoop-0.21.0/hadoop-0.21.0.tar.gz
+del
